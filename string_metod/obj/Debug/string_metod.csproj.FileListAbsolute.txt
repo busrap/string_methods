@@ -1,0 +1,22 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\string_metod\string_metod\bin\Debug\string_metod.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\string_metod\string_metod\bin\Debug\string_metod.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\string_metod\string_metod\bin\Debug\string_metod.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\string_metod\string_metod\obj\Debug\string_metod.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\string_metod\string_metod\obj\Debug\string_metod.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\string_metod\string_metod\obj\Debug\string_metod.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\string_metod\string_metod\obj\Debug\string_metod.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\string_metod\string_metod\obj\Debug\string_metod.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\string_metod\string_metod\obj\Debug\string_metod.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\string_metod(ödev)\string_metod\bin\Debug\string_metod.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\string_metod(ödev)\string_metod\obj\Debug\string_metod.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\string_metod(ödev)\string_metod\obj\Debug\string_metod.pdb
+E:\Eski Calismalar\string_metod(ödev)\string_metod\bin\Debug\string_metod.exe.config
+E:\Eski Calismalar\string_metod(ödev)\string_metod\bin\Debug\string_metod.exe
+E:\Eski Calismalar\string_metod(ödev)\string_metod\bin\Debug\string_metod.pdb
+E:\Eski Calismalar\string_metod(ödev)\string_metod\obj\Debug\string_metod.csprojAssemblyReference.cache
+E:\Eski Calismalar\string_metod(ödev)\string_metod\obj\Debug\string_metod.Form1.resources
+E:\Eski Calismalar\string_metod(ödev)\string_metod\obj\Debug\string_metod.Properties.Resources.resources
+E:\Eski Calismalar\string_metod(ödev)\string_metod\obj\Debug\string_metod.csproj.GenerateResource.cache
+E:\Eski Calismalar\string_metod(ödev)\string_metod\obj\Debug\string_metod.csproj.CoreCompileInputs.cache
+E:\Eski Calismalar\string_metod(ödev)\string_metod\obj\Debug\string_metod.exe
+E:\Eski Calismalar\string_metod(ödev)\string_metod\obj\Debug\string_metod.pdb
